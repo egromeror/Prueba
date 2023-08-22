@@ -1,1 +1,3 @@
 Archivo de texto a modo de prueba del ejercicio
+
+Linea adicional para verificar diferencias
